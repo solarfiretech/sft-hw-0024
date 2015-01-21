@@ -1,2 +1,8 @@
 pcb/*.*#
 pcb/*.*~
+pcb/*.*-
+pcb/bom.txt
+pcb/*.cmd
+pcb/*.net
+pcb/*.new.*
+pcb/*.*.bak
